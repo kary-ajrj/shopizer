@@ -1,3 +1,5 @@
+Making a change
+
 Shopizer 2.2.0 (for java 1.8 +)
 -------------------
 
